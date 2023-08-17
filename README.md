@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&layout=compact&hide_border=true&title_color=F9F6EE&text_color=F9F6EE&theme=transparent" />
+<img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&layout=compact&hide_border=true&title_color=F9F6EE&text_color=F0EAD6&theme=transparent" />
 
 ## - ferramentas:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
