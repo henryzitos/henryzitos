@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=153040&height=120&section=header"/>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=2000&color=F7F7F7&center=true&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+
+</div>
 
 Meu nome é **Henry**, tenho **16 anos** e sou estudante do **IFSP**. Estou cursando o Ensino Médio Integrado a **Informática**. **Estudo uma coisa ou outra diferente de vez em quando**, quando não tô estudando pras atividades da escola. Espero que ache alguma coisa que te ajude por aqui. **:)**
 
