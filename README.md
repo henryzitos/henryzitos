@@ -6,7 +6,7 @@
 
 </div>
 
-Meu nome é **Henry**, tenho **16 anos** e sou estudante do **IFSP**. Estou cursando o Ensino Médio Integrado a **Informática**. **Estudo uma coisa ou outra diferente de vez em quando**, quando não tô estudando pras atividades da escola. Espero que ache alguma coisa que te ajude por aqui. **:)**
+Meu nome é **Henry**, tenho **17 anos** e sou estudante do **IFSP**. Estou cursando o Ensino Médio Integrado a **Informática**. **Estudo uma coisa ou outra diferente de vez em quando**, quando não tô estudando pras atividades da escola. Espero que ache alguma coisa que te ajude por aqui. **:)**
 
 ## Linguagens principais:
 
