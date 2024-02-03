@@ -8,7 +8,7 @@
 
 Meu nome é **Henry**, tenho **17 anos** e sou estudante do **IFSP**, desenvolvedor **Full Stack** e **Designer de UX**. Estou cursando o Ensino Médio Integrado a **Informática**. **Estudo uma coisa ou outra diferente de vez em quando**, quando não tô estudando pras atividades da escola. Espero que ache alguma coisa que te ajude ou seja interessante pra você por aqui. **:)**
 
-**Me conheça ainda mais clicando [aqui](meethenry.carrd.co)!**
+**Me conheça ainda mais clicando [aqui](https://meethenry.carrd.co)!**
 
 ## Linguagens principais:
 
