@@ -58,7 +58,7 @@ Meu nome é **Henry**, tenho **17 anos** e sou estudante do **IFSP**, desenvolve
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryzitos&hide=stars,issues&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&hide_progress=true&layout=compact&theme=github_dark)
 
 </div>
 
