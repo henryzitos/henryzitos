@@ -10,17 +10,12 @@ Meu nome é **Henry**, tenho **17 anos** e sou estudante do **IFSP**, desenvolve
 
 **Me conheça ainda mais clicando [aqui](https://henriquydias.carrd.co)!**
 
-## Linguagens principais:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-## Estou estudando...
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+## Linguagens:
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&hide_progress=true&layout=compact&theme=github_dark)
+  
+</div>
 
 ## Ferramentas que uso:
 
@@ -58,7 +53,7 @@ Meu nome é **Henry**, tenho **17 anos** e sou estudante do **IFSP**, desenvolve
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryzitos&hide=stars,issues&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&hide_progress=true&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryzitos&layout=compact&theme=github_dark)
 
 </div>
 
